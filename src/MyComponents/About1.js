@@ -45,7 +45,7 @@ const people = [
   },
     {
     name: 'Mansi Bellani',
-    role: 'Data Analyst + CIO',
+    role: 'Data Analyst + Co-Founder',
     imageUrl:
       'https://media.licdn.com/dms/image/D4D03AQF_sjSz2esQWA/profile-displayphoto-shrink_100_100/0/1689216851927?e=1695859200&v=beta&t=PcC2gr_o7cAiThV_uHFBsv3K_udJjZjd2d2scy55nfc',
   },
